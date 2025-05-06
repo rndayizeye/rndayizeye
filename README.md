@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on a dash app that that streamlines syphilis prevention activities.
+- 🌱 I’m currently learning web development using python
 
 <!--
 **rbutare/rbutare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
