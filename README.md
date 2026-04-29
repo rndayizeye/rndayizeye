@@ -41,7 +41,7 @@ An AI assistant for STI disease intervention. Uses Retrieval-Augmented Generatio
 ### 🩸 [Predicting Intraoperative Blood Transfusion](https://github.com/rndayizeye/blood_tranfusion)
 ML models trained on real-world VitalDB surgical data to predict intraoperative transfusion need from preoperative variables — reducing blood product waste. Fully Dockerized with MLOps best practices. Built in R.
 
-### 🚗 [NAVIGATOR: NYC Crash & Health Equity Analysis](https://github.com/rndayizeye/navigator_tdsp) *(in progress)*
+### 🚗 [NAVIGATOR: NYC Crash & Health Equity Analysis](https://github.com/rndayizeye/tdsp-navigator-clean) *(in progress)*
 Geospatial + time series analysis of 2M+ NYC collision records — poverty-crash correlation by ZIP code via Census API, Prophet forecasting, change point detection, interactive Folium choropleth maps. In collaboration with U.S. DOT Federal Highway Administration.
 
 ### 📊 [Pens & Printers: Sales Method Optimization](https://github.com/rndayizeye/pens_and_printers)
